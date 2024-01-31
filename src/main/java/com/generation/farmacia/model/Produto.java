@@ -16,7 +16,7 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 
 @Entity
-@Table(name = "tb_produtos")
+@Table(name = "tb_produtos_farmacia")
 public class Produto {
 
 	@Id
